@@ -966,6 +966,7 @@ section {
 	transition: all 0.3s ease-in-out;
 	border-radius: 0px;
 	z-index: 1;
+	width:100%;
 	min-height: 380px;
 }
 
